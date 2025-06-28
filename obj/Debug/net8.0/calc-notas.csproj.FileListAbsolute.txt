@@ -1,0 +1,14 @@
+/home/eosant_dev/Estudo-CSharp/calc-notas/bin/Debug/net8.0/calc-notas
+/home/eosant_dev/Estudo-CSharp/calc-notas/bin/Debug/net8.0/calc-notas.deps.json
+/home/eosant_dev/Estudo-CSharp/calc-notas/bin/Debug/net8.0/calc-notas.runtimeconfig.json
+/home/eosant_dev/Estudo-CSharp/calc-notas/bin/Debug/net8.0/calc-notas.dll
+/home/eosant_dev/Estudo-CSharp/calc-notas/bin/Debug/net8.0/calc-notas.pdb
+/home/eosant_dev/Estudo-CSharp/calc-notas/obj/Debug/net8.0/calc-notas.GeneratedMSBuildEditorConfig.editorconfig
+/home/eosant_dev/Estudo-CSharp/calc-notas/obj/Debug/net8.0/calc-notas.AssemblyInfoInputs.cache
+/home/eosant_dev/Estudo-CSharp/calc-notas/obj/Debug/net8.0/calc-notas.AssemblyInfo.cs
+/home/eosant_dev/Estudo-CSharp/calc-notas/obj/Debug/net8.0/calc-notas.csproj.CoreCompileInputs.cache
+/home/eosant_dev/Estudo-CSharp/calc-notas/obj/Debug/net8.0/calc-notas.dll
+/home/eosant_dev/Estudo-CSharp/calc-notas/obj/Debug/net8.0/refint/calc-notas.dll
+/home/eosant_dev/Estudo-CSharp/calc-notas/obj/Debug/net8.0/calc-notas.pdb
+/home/eosant_dev/Estudo-CSharp/calc-notas/obj/Debug/net8.0/calc-notas.genruntimeconfig.cache
+/home/eosant_dev/Estudo-CSharp/calc-notas/obj/Debug/net8.0/ref/calc-notas.dll
