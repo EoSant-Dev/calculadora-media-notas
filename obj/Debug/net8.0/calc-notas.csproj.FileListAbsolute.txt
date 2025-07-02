@@ -12,3 +12,4 @@
 /home/eosant_dev/Estudo-CSharp/calc-notas/obj/Debug/net8.0/calc-notas.pdb
 /home/eosant_dev/Estudo-CSharp/calc-notas/obj/Debug/net8.0/calc-notas.genruntimeconfig.cache
 /home/eosant_dev/Estudo-CSharp/calc-notas/obj/Debug/net8.0/ref/calc-notas.dll
+/home/eosant_dev/Estudo-CSharp/calc-notas/obj/Debug/net8.0/calc-notas.sourcelink.json

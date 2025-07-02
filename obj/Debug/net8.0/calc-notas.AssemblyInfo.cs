@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("calc-notas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6db3610dd43f919f33a58426a699745ff298c523")]
 [assembly: System.Reflection.AssemblyProductAttribute("calc-notas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("calc-notas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
